@@ -3,7 +3,7 @@
   <groupId>Cucumber</groupId>
   <artifactId>Cucumber_BDD</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build>
+ <!-- <build>
     <pluginManagement>
       <plugins>
         <plugin>
@@ -11,7 +11,7 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.14.0</version>
           <configuration>
-            <!-- put your configurations here -->
+          
           </configuration>
         </plugin>
        
@@ -23,7 +23,7 @@
         
       </plugins>
     </pluginManagement>
-  </build>
+  </build> -->
   <dependencies>
 	  
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
